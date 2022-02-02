@@ -11,6 +11,6 @@
 </p>
 <p align="center">
   <br> More Detail Information in
-  <a href=https://water-yacht-eaa.notion.site/Who-am-I-d2d6453bb4394fd8b0cf595c0c5116e3><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+  <a href=https://portpoliyeob.notion.site/Hello-World-4e0e3ebe397846368dde95d50458cd58><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 </p>
 <br>
